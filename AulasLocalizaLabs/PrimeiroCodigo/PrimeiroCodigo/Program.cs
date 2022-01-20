@@ -6,7 +6,9 @@ namespace PrimeiroCodigo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var a = "Hello ";
+            var b = "World!";
+            Console.WriteLine(a+b);
         }
     }
 }
