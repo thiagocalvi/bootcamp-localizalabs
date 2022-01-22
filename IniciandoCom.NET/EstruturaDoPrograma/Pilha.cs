@@ -4,6 +4,6 @@ namespace EstruturaDoPrograma
 {
     public class Pilha
     {
-      
+        
     }
 }
