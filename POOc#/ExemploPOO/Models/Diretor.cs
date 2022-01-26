@@ -1,3 +1,5 @@
+//bootcamp Localiza 
+//---26/01/2022---
 namespace ExemploPOO.Models
 {
     public class Diretor : Professor

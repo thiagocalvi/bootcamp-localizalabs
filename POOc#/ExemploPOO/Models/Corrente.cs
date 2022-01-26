@@ -1,3 +1,6 @@
+//Herda da classe abstrata Conta
+//bootcamp Localiza 
+//---26/01/2022---
 namespace ExemploPOO.Models
 {
     public class Corrente : Conta

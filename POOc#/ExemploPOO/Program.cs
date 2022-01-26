@@ -30,48 +30,43 @@ namespace ExemploPOO
             // Helper.CriarArquivoTexto(caminhoarquivo, "teste de escrita de arquivo");
             // Helper.CriarArquivoTextoStraem(caminho, listaString);
             // Helper.AdicionarTextoStraem(caminhoarquivo, listaStringContinuacao);
-            //Helper.LerArquivoStraem(caminhoarquivo);
-            //Helper.MoverArquivo(caminho, novocaminhoarquivo);
+            // Helper.LerArquivoStraem(caminhoarquivo);
+            // Helper.MoverArquivo(caminho, novocaminhoarquivo);
             // Helper.MoverArquivo(caminho, novocaminhoarquivo, false);
             Helper.DeletarArquivo(caminhoarquivoteste);
 
 
-
-
-
-
+// ****************************************************************************************************
 
 
             // ICalculadora calc = new Calculadora();
             // System.Console.WriteLine(calc.Somar(1,3));
 
 
-
-
-
+// ****************************************************************************************************
 
 
             // Computador c = new Computador();
             // c.ToString();
 
 
-
-
-
-
-
-
-
-
-
+// ****************************************************************************************************
 
             // Corrente cr = new Corrente();
             // cr.Creditar(100);
             // cr.ExibirSaldo();
 
+
+// ****************************************************************************************************
+
+
             //Calculadora calc = new Calculadora();
             //Console.WriteLine("Resultado da primeira soma: " + calc.Somar(10,3));
             //Console.WriteLine("Resultado da segunda soma: " + calc.Somar(10,3,10));
+
+
+// ****************************************************************************************************
+
 
             // Aluno p1 = new Aluno();
             // p1.Nome = "Bob";
@@ -87,6 +82,10 @@ namespace ExemploPOO
             // p1.Documento = "123456";
             // p1.Apresentar();
 
+
+// ****************************************************************************************************
+
+
             // //valores valido
             // Retangulo r = new Retangulo();
             // r.DefinirMedidas(30,30);
@@ -98,7 +97,7 @@ namespace ExemploPOO
             // Console.WriteLine($"A área é de {r2.ObterArea()}");
 
 
-
+// ****************************************************************************************************
 
 
             // //cria a classe Pessoa e a chama de p1

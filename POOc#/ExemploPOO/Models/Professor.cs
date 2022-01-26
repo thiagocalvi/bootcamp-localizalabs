@@ -1,3 +1,6 @@
+//Herda de Pessoa, Polimorfismo e classe Selada 
+//bootcamp Localiza 
+//---26/01/2022---
 namespace ExemploPOO.Models
 {
     public class Professor : Pessoa

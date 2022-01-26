@@ -1,3 +1,6 @@
+//Trabalhando com Arquivos
+//bootcamp Localiza 
+//---26/01/2022---
 using System.Collections.Generic;
 using System.IO;
 
@@ -55,6 +58,7 @@ namespace ExemploPOO.Helper
                 }
             }
         }
+
         public void AdicionarTexto(string caminho, string conteudo)
         {
             File.AppendAllText(caminho, conteudo);
@@ -69,6 +73,7 @@ namespace ExemploPOO.Helper
                 }
             }
         }
+
         public void LerArquivo(string caminho)
         {
             var conteudo = File.ReadAllLines(caminho);
@@ -78,6 +83,7 @@ namespace ExemploPOO.Helper
                 System.Console.WriteLine(linha);
             }
         }
+
         public void LerArquivoStraem(string caminho)
         {
             string linha = string.Empty;
@@ -90,14 +96,17 @@ namespace ExemploPOO.Helper
                 }
             }
         }
+
         public void MoverArquivo(string caminho, string novoCaminho, bool sobreescrever)
         {
             File.Move(caminho, novoCaminho, sobreescrever);
         }
+
         public void CopiarArquivo(string caminho, string novocaminho, bool sobreescrever)
         {
             File.Copy(caminho, novocaminho, sobreescrever);
         }
+        
         public void DeletarArquivo(string caminho)
         {
             File.Delete(caminho);
