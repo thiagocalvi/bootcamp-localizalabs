@@ -1,0 +1,16 @@
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.exe
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.deps.json
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.json
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.dev.json
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.dll
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\bin\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.pdb
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.dll
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\obj\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.pdb
+C:\Workspace\Construtores_Propiedades_Delegates_Eventos\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.genruntimeconfig.cache
