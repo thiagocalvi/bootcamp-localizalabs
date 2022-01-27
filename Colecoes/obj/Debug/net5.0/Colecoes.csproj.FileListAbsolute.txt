@@ -1,0 +1,16 @@
+C:\Workspace\Colecoes\bin\Debug\net5.0\Colecoes.exe
+C:\Workspace\Colecoes\bin\Debug\net5.0\Colecoes.deps.json
+C:\Workspace\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.json
+C:\Workspace\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.dev.json
+C:\Workspace\Colecoes\bin\Debug\net5.0\Colecoes.dll
+C:\Workspace\Colecoes\bin\Debug\net5.0\ref\Colecoes.dll
+C:\Workspace\Colecoes\bin\Debug\net5.0\Colecoes.pdb
+C:\Workspace\Colecoes\obj\Debug\net5.0\Colecoes.csproj.AssemblyReference.cache
+C:\Workspace\Colecoes\obj\Debug\net5.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfoInputs.cache
+C:\Workspace\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfo.cs
+C:\Workspace\Colecoes\obj\Debug\net5.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Workspace\Colecoes\obj\Debug\net5.0\Colecoes.dll
+C:\Workspace\Colecoes\obj\Debug\net5.0\ref\Colecoes.dll
+C:\Workspace\Colecoes\obj\Debug\net5.0\Colecoes.pdb
+C:\Workspace\Colecoes\obj\Debug\net5.0\Colecoes.genruntimeconfig.cache
